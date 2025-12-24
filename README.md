@@ -1,4 +1,4 @@
-# PT Bintang Semesta Farma - Company Website
+# PT Bintang Semesta Farma
 
 ## Tech Stack
 
