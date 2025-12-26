@@ -94,11 +94,11 @@ const eventGalleries = {
     caption: "Kebersamaan tim di berbagai kota: Jakarta, Bandung, Bekasi, Sidoarjo",
     captionEn: "Team gathering across cities: Jakarta, Bandung, Bekasi, Sidoarjo",
     images: [
-      "/Buka Puasa Bersama 2025 /Jakarta/1.jpeg",
-      "/Buka Puasa Bersama 2025 /Jakarta/5.jpeg",
-      "/Buka Puasa Bersama 2025 /Bandung/WhatsApp Image 2025-03-24 at 15.14.53_23c8465b.jpg",
-      "/Buka Puasa Bersama 2025 /Bekasi/WhatsApp Image 2025-03-21 at 19.58.50_08e41cca.jpg",
-      "/Buka Puasa Bersama 2025 /Sidoarjo/WhatsApp Image 2025-03-24 at 09.15.45_b5c2d4e1.jpg",
+      "/Buka Puasa Bersama 2025/Jakarta/1.jpeg",
+      "/Buka Puasa Bersama 2025/Jakarta/5.jpeg",
+      "/Buka Puasa Bersama 2025/Bandung/WhatsApp Image 2025-03-24 at 15.14.53_23c8465b.jpg",
+      "/Buka Puasa Bersama 2025/Bekasi/WhatsApp Image 2025-03-21 at 19.58.50_08e41cca.jpg",
+      "/Buka Puasa Bersama 2025/Sidoarjo/WhatsApp Image 2025-03-24 at 09.15.45_b5c2d4e1.jpg",
     ],
   },
 };
